@@ -1,4 +1,12 @@
+# Image Gallery Web Application
+
+## About
+
+The Image Gallery Web Application is a web-based platform for discovering information about images. It allows users to search for images and has drag & drop functionality.
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+
+## [Demo Link](https://hngtask3jagmeet.netlify.app/)
 
 ## Getting Started
 
@@ -10,6 +18,25 @@ npm run dev
 yarn dev
 # or
 pnpm dev
+```
+1. Clone the repository:
+
+```bash
+https://github.com/jagmeetkaur03/Task3_Zuri.git
+```
+
+2. Install dependencies:
+
+```bash
+"autoprefixer": "10.4.15",
+"firebase": "^10.4.0",
+"next": "13.4.19",
+"next-auth": "^4.23.1",
+"postcss": "8.4.29",
+"react": "18.2.0",
+"react-beautiful-dnd": "^13.1.1",
+"react-dom": "18.2.0",
+"tailwindcss": "3.3.3"
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
